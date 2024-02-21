@@ -1,0 +1,18 @@
+.underline-text {
+    text-decoration: underline;
+}
+
+.line-color{
+    border: none;
+    height: 1%;
+    background-color: rgb(14, 28, 218);
+}
+
+.card-width{
+    width: 9px;;
+    
+}
+
+.code-style{
+    margin-bottom: 0%;
+}
